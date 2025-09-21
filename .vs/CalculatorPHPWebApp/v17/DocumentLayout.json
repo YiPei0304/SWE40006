@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. Degree Y3S1\\40006_Software\\CalculatorPHPWebApp\\CalculatorPHPWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132F3646-5185-6468-F76F-12CCBC50BBCB}|CalculatorPHPWebApp.phpproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. degree y3s1\\40006_software\\calculatorphpwebapp\\calculatorphpwebapp\\calculator.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{132F3646-5185-6468-F76F-12CCBC50BBCB}|CalculatorPHPWebApp.phpproj|solutionrelative:calculator.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F3646-5185-6468-F76F-12CCBC50BBCB}|CalculatorPHPWebApp.phpproj|c:\\users\\hp\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. degree y3s1\\40006_software\\calculatorphpwebapp\\calculatorphpwebapp\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{132F3646-5185-6468-F76F-12CCBC50BBCB}|CalculatorPHPWebApp.phpproj|solutionrelative:index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.php",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. Degree Y3S1\\40006_Software\\CalculatorPHPWebApp\\CalculatorPHPWebApp\\calculator.php",
+              "RelativeDocumentMoniker": "calculator.php",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. Degree Y3S1\\40006_Software\\CalculatorPHPWebApp\\CalculatorPHPWebApp\\calculator.php",
+              "RelativeToolTip": "calculator.php",
+              "ViewState": "AgIAALUBAAAAAAAAAAAqwMEBAAAsAAAAAAAAAA==",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-09-21T05:40:17.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. Degree Y3S1\\40006_Software\\CalculatorPHPWebApp\\CalculatorPHPWebApp\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2. Degree Y3S1\\40006_Software\\CalculatorPHPWebApp\\CalculatorPHPWebApp\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowO4AAAAHAAAAAAAAAA==",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-09-21T05:39:43.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
